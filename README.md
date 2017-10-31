@@ -1,4 +1,4 @@
-# labor 31.10.17 (Gruppe 2)
+# Labor 31.10.17 (Gruppe 2)
 
 **Teilnehmer:**  
 Nebel, Mandl, Mörth, Martinak, ...
